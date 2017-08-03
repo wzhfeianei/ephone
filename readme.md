@@ -9,6 +9,6 @@
 2. 点击执行Monkey按钮，默认会同时在列表中的机器中执行对应的Monkey命令并收集日志
 - ## 参数配置
 1. 主目录下的config.py为配置文件
-2. `package`为包的列表，依次Monkey执行列表中的包
+2. `packages`为包的列表，依次Monkey执行列表中的包
 3. `default_entry_event_num = "500"` 此数值为Monkey的事件数
 4. `default_entry_event_path = "D:\\monkeytest"` 此项为Monkey日志的存放路径
