@@ -53,7 +53,7 @@ if __name__ == '__main__':
         list1.set(init_list())
 
 
-    def show_msg():
+    def show_msg(*args):
         pass
         # indexs = listbox_left.curselection()
         # print(devices_list[indexs.index(0)])
